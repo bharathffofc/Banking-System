@@ -183,6 +183,7 @@ if __name__ == '__main__':
                                 break
                 else:
                     print("Login Failed...")
+                    print("Account number or password is invalid")
 
             case 0:
                 print("Exit the Program...")
